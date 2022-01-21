@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7ee4f28-5225-4cc9-afeb-38cd52007a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/repository/CourseRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/JfsJwtApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/config/JwtFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/controller/AuthController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/controller/CourseController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/controller/dto/LoginDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/controller/dto/Token.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/model/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/service/CourseService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/jfs_jwt/service/CourseServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/controller/CourseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/model/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/service/CourseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/service/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jfs_jwt/service/CourseServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="b7ee4f28-5225-4cc9-afeb-38cd52007a85" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
