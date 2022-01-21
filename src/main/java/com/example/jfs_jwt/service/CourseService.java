@@ -9,6 +9,6 @@ public interface CourseService
 
     void save( Course course );
 
-    void delete( String courseId );
+    void delete( Integer courseId );
 
 }

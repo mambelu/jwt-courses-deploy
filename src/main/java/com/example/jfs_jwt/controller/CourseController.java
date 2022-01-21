@@ -34,7 +34,7 @@ public class CourseController {
 
 //    delete a course
     @DeleteMapping("/api/courses/{courseId}")
-    public void delete(@PathVariable String courseId){
+    public void delete(@PathVariable Integer courseId){
         courseService.delete(courseId);
     }
 
